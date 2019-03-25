@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/pablocano/git/progfun1-example/src/main/scala/example/Lists.scala:44:29: object java.util.NoSuchElementException is not a value[0m
+[0m[[0m[31merror[0m] [0m[0m      if (xs.isEmpty) throw NoSuchElementException[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
